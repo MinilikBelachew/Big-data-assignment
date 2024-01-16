@@ -9,8 +9,8 @@ This dataset No-Show Appointments collects information from 100k medical appoint
 https://www.kaggle.com/datasets/joniarroba/noshowappointments
 
 ##  Tools
--Jupyter Notebook
--Python
+- Jupyter Notebook
+- Python
 
 ## Libraries
  -pandas 
