@@ -36,10 +36,10 @@ Conditions like Hypertension, Diabetes, Alcoholism, and Handicap showed limited 
 Attendance rates showed no distinct patterns based on gender or different appointment days.
 ### Insights:
 
-•	Complexity of Attendance Factors:No single factor emerged as a decisive predictor for attendance, indicating a complex interplay of multiple factors.
+•	Complexity of Attendance Factors: No single factor emerged as a decisive predictor for attendance, indicating a complex interplay of multiple factors.
 
 
-•	Potential External Factors:Absence of socioeconomic or transportation data might influence attendance, suggesting external factors beyond the dataset's scope.
+•	Potential External Factors: Absence of socioeconomic or transportation data might influence attendance, suggesting external factors beyond the dataset's scope.
 
 ### Conclusion:
 
