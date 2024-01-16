@@ -13,11 +13,11 @@ https://www.kaggle.com/datasets/joniarroba/noshowappointments
 - Python
 
 ## Libraries
- -pandas 
- -numpy 
- -matplotlib.pyplot
- -seaborn
- -sklearn
+ - pandas 
+ - numpy 
+ - matplotlib.pyplot
+ - seaborn
+ - sklearn
 
 ##  Objective:
 The analysis aimed to understand the factors influencing patient attendance at scheduled medical appointments.
